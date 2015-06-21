@@ -1,0 +1,36 @@
+{
+  "name": "miitoo",
+  "version": "0.0.0",
+  "description": "A NodeJS web-framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --bail --check-leaks test/utils/ test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiceToMiitYou/Miitoo.git"
+  },
+  "keywords": [
+    "Miit",
+    "Framework",
+    "Web"
+  ],
+  "author": "Tacyniak Boris <boris.tacyniak@free.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiceToMiitYou/Miitoo/issues"
+  },
+  "homepage": "https://github.com/NiceToMiitYou/Miitoo#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "lodash": "^3.9.3",
+    "primus": "^3.0.2",
+    "primus-rooms": "^3.1.0",
+    "require-all": "^1.1.0",
+    "winston": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  }
+}
