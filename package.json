@@ -1,6 +1,6 @@
 {
   "name": "miitoo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NodeJS web-framework",
   "main": "lib/index.js",
   "scripts": {
@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/NiceToMiitYou/Miitoo#readme",
   "dependencies": {
-    "express": "^4.12.4",
-    "lodash": "^3.9.3",
-    "primus": "^3.0.2",
-    "primus-rooms": "^3.1.0",
+    "express": "^4.13.1",
+    "lodash": "^3.10.0",
+    "primus": "^3.2.0",
+    "primus-rooms": "^3.2.0",
     "require-all": "^1.1.0",
     "sockjs": "^0.3.15",
-    "winston": "^1.0.0"
+    "winston": "^1.0.1"
   },
   "devDependencies": {
     "mocha": "^2.2.5",
