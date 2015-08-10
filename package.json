@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/NiceToMiitYou/Miitoo#readme",
   "dependencies": {
+    "compression": "^1.5.2",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
     "primus": "^3.2.1",
