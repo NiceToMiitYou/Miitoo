@@ -25,8 +25,8 @@
     "compression": "^1.5.2",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
-    "primus": "^3.2.1",
-    "primus-rooms": "^3.2.0",
+    "primus": "^3.2.2",
+    "primus-rooms": "^3.3.0",
     "require-all": "^1.1.0",
     "sockjs": "^0.3.15",
     "winston": "^1.0.1"
