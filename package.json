@@ -1,6 +1,6 @@
 {
   "name": "miitoo",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A NodeJS web-framework",
   "main": "lib/index.js",
   "scripts": {
